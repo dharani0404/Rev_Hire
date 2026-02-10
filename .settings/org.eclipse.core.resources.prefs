@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/com/revhire/dao/EducationDAO.java=UTF-8
+encoding//src/com/revhire/dao/ExperienceDAO.java=UTF-8
+encoding//src/com/revhire/dao/JobListingDAO.java=UTF-8
+encoding//src/com/revhire/dao/SkillsDAO.java=UTF-8
+encoding//src/com/revhire/model/JobListing.java=UTF-8
+encoding//src/com/revhire/service/ResumeService.java=UTF-8
+encoding//src/com/revhire/ui/AuthUI.java=UTF-8
+encoding//src/com/revhire/ui/EmployerUI.java=UTF-8
+encoding//src/com/revhire/ui/JobSearchUI.java=UTF-8
+encoding//src/com/revhire/ui/JobSeekerProfileUI.java=UTF-8
